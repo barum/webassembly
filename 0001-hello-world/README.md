@@ -1,9 +1,10 @@
 # webassembly
 
 There are two parts: client and server.
-Client = gets loaded into the browser
 
-Server = will serve the files. If you try and use the `index.html` in the client directory from file open or live server, you will get an error.
+**Client** = gets loaded into the browser
+
+**Server** = will serve the files. If you try and use the `index.html` in the client directory from file open or live server, you will get an error.
 
 ### Client code
 
