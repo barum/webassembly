@@ -1,6 +1,6 @@
 My notes on Golang and WebAssembly.
 
-I have used/copied/borrowed content, 99.995,  from many diffrent places.
+I have used/copied/borrowed content, 99.995%,  from many diffrent places.
 
 
 https://golang.org/pkg/syscall/js/
